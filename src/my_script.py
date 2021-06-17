@@ -7,3 +7,4 @@ encoder.save('./datamatrix_test.png')
 print(encoder.get_ascii())
 #change one
 #change two
+#change three
